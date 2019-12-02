@@ -1,0 +1,1 @@
+This document contains proprietary information intended solely for the use of CMPUT 401 - Software Process and Product Management. It is the property of RentWhiz Inc. Distribution, copying or disclosure without express permission from the Directors and/or CEO of RentWhiz Inc. is strictly prohibited.
